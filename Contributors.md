@@ -1,4 +1,8 @@
   # Contributors
+- [Omkar Phansopkar](https://github.com/OmkarPh)
+- ADDING FROM GITHUB DESKTOP
+- ADDING SECOND LINE
+- [Kabir Dubey](https://github.com/KabirDubey)
 - [Juliana Alves] (https://github.com/julianafalves)
   [Amit Kinor](https://github.com/amitkinor))
   [Surya Vamsi](https://github.com/suryavamsi6)
@@ -6,6 +10,7 @@
   [Javokhir Jurakhodjaev](https://github.com/leader2one)
   [Nathan Ross](https://github.com/nwross95)
 - [Imran Ahmad](https://github.com/meetimran)
+- [Pankaj Anand](https://github.com/pankajanand26/)
 - [Someone ] (https://github.com/LearnerSamuelX)
 - [Nikola Grujic](https://github.com/nikolatechie)
 - [Ishaq Amin(Zack)] (https://github.com/zackhamin)
@@ -19,6 +24,7 @@
 - [Nathan Geyer] (https://github.com/n8orz)
 - [Vivek Bhadola] (https://github.com/dynamic-26)
 - [Priya Srivastava] (https://github.com/Priya730)
+- [Data Khukhua] (https://github.com/DataKhukhua)
 - [Rushikesh Barkale] (https://github.com/rushikeshbarkale)
 - [Quynh Vo] (https://github.com/quynhhvo)
 - [GHC OSD 2020] (https://github.com/osdoss2020)
@@ -48,10 +54,13 @@
 - [Zain Jandali](https://github.com/zjandali)
 - [Nour Khedr](https://github.com/nkhedr1)
 - [Erik B](https://github.com/DeroBee)
+- [Chandra Kiran G](https://github.com/Chandu-4444)
 - Zainab Iftikhar
+- Sarveen Santhiramohan
 - [Antti Hyppola](https://github.com/4nt1d0t3)
 - [Lokesh Burma](https://github.com/Lokesh-Burma)
 - [Ivan Tse](https://github.com/ivantse42)
+- [Dylan Cooper] (https://github.com/Dylanc55)
 - [Bow Verboom](https://github.com/1993bow)
 - [Patrick Ouambo](https://github.com/guy-patrick)
 - [Jatin Pandey](https://github.com/jatin837)
@@ -65,6 +74,7 @@
 - [Alexander Larbi](https://github.com/alexlarbi)
 - [Yutong Xiao](https://github.com/YutongXiao)
 - Wimansha Herath
+- Marc Banuls
 - [Akshat Sood](https://github.com/akshatsood2249)
   [Dmitry Vladov](https://github.com/dvladov73)
 - [Kelly Nguyen](https://github.com/yllekn)
@@ -82,6 +92,7 @@
 - [EshwarCVS](https://github.com/EshwarCVS)
 - [Martin Buxmann](https://github.com/BitVivAZ)
 - [Dhruv Rawat](https://github.com/dhruvrawat777)
+- [Yarden Mezi] (https://github.com/yardenmezi)
 - [Eloïse Schmitt](https://github.com/eloiseschmitt)
 - [Bernys-Castillo](https://github.com/Bernys)
 - [Chad Moravec](https://github.com/losmanzanos)
@@ -191,6 +202,7 @@
 - [Charlotte Guerin](https://github.com/Loliwe)
 - [Macallan Savett](https://github.com/Micjoey)
 - [yuvarajan](https://github.com/dozerex)
+- [Kartik Gupta](https://github.com/beingkartik)
 - [Cassidy McDonnell]
 - [David Fraser](https://github.com/DavidMatthewFraser)
 - [Louis Bui](https://github.com/longlb)
@@ -580,6 +592,7 @@
 - [Devon Hunter](https://github.com/DevonHunter/)
 - [Shashank Aital](https://github.com/aitalshashank2)
 - [Dan Grant-Hunter](https://github.com/dan-grant-hunter)
+- [Matt Hesseling](https://github.com/MattHesseling)
 - [Partyaksh Saini](https://github.com/dexterpuru)
 - [ACE AFRICA](https://github.com/acecycle4)
 - [Adrian Sowiński](https://github.com/TheAner)
@@ -713,6 +726,7 @@
 - Git Goode
 - [George Rod](https://https://github.com/gnrod)
 - Mohan-Cloud
+- [Brage Rosberg](https://github.com/bragerosberg)
 - [Minel Aydın - Minnela :)](https://github.com/minnela)
 - [Jonathan R]
 - David Kwong
@@ -3098,6 +3112,7 @@
 - [DozzerCT8](https://github.com/DozzerCR8)
 - [Daemon](https://github.com/prameya21)
 - [Ankita Kaushik](https://github.com/ankitakaushik)
+- n
 - [David Jahng](https://github.com/djahng)
 - [Azhar Anwar](https://github.com/iamazhar)
 - [Juan Carlos Munoz Calle](https://github.com/Dubstepic)
@@ -4038,6 +4053,7 @@
 - [jaeik](https://github.com/simjaeik)
 - [tsantos8080](https://github.com/tsantos8080)
 - [Tommy]
+- [JenEeKay] (https://github.com/jennyek2019)
 - [Valerio Trinca](https://github.com/ValerioTrinca)
 - [Ephraim Atta-Duncan](https://github.com/dephraiim)
 - [songhee](https://github.com/songhee23)
@@ -4052,4 +4068,10 @@
 - [Allen J](https://github.com/uuuiii00)
 - [schmelto](https://github.com/schmelto)
 - [Edtito](https://github.com/Edtito)
+-[Minierparedees](https://github.com/minierparedes)
 - [Ivan-Khomutovskiy](https://github.com/Ivan-Khomutovskiy)
+- [Valeria Oshiro](https://github.com/valeriaoshiro)
+- [Justyna] (https://github.com/justyna13)
+- [gt-rocks] (https://github.com/gt-rocks)
+- [Mosiur-rahman] (https://github.com/Mosiur-Rahman-1)
+- [Arpit Srivastava] (https://github.com/arpit03187)

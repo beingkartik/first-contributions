@@ -273,6 +273,7 @@
 - [Shashank Gupta](https://github.com/shashankofficialgupta)
 - Octave Kameni
 - Valeriya K
+- jyst tring out the commit command
 - [Elior Levi] (https://github.com/elior8900)
 - [Tyler Skulley](https://github.com/tskull01)
 - [Samuel Mwangi](https://github.com/SAWAMWA)
